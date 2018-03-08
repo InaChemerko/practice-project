@@ -147,9 +147,7 @@ Name         | Disc Forum @ | Slack @ | Link (optional)
 Chris Neal   | chrisneal    | Chris N | [github/chrisvneal](https://github.com/chrisvneal/GWGpractice)
 Daniel Lu    | dandydanny   | dandydanny | [github/dandydanny](https://github.com/dandydanny)
 Daren Morreale  |     | @Daren  | [github/darenjm](https://github.com/darenjm)
-<<<<<<< HEAD
 Ina Chemerko |     | @InaChemerko  | [github/InaChemerko](https://github.com/InaChemerko)
-=======
 Ivan Huddleston | taskmaster | taskmaster | [github/elementWebDev](https://github.com/elementWebDev), [My personal hosting / dev site](https://elementwebdev.com)
 Megan Spaulding  |     | @Megan Spaulding  | [github/meganspauldingcreative](https://github.com/meganspauldingcreative)
 >>>>>>> 92fea0bce09e44715c210951b048ab1dacd5e133
@@ -160,9 +158,7 @@ Contributors in this group will refactor and optimize the structure and semantic
 Name         | Disc Forum @ | Slack @ | Link (optional)
 -----        | -----        | -----   | -----
 Daren Morreale  |   | @Daren  | [github/darenjm](https://github.com/darenjm)
-<<<<<<< HEAD
 Ina Chemerko |     | @InaChemerko  | [github/InaChemerko](https://github.com/InaChemerko)
-=======
 Brendan Pettis | @codemetheus | @Brendan(WI) | [github/brendanpettis](https://github.com/brendanpettis)
 >>>>>>> 92fea0bce09e44715c210951b048ab1dacd5e133
 
