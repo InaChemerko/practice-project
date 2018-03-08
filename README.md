@@ -150,7 +150,7 @@ Daren Morreale  |     | @Daren  | [github/darenjm](https://github.com/darenjm)
 Ina Chemerko |     | @InaChemerko  | [github/InaChemerko](https://github.com/InaChemerko)
 Ivan Huddleston | taskmaster | taskmaster | [github/elementWebDev](https://github.com/elementWebDev), [My personal hosting / dev site](https://elementwebdev.com)
 Megan Spaulding  |     | @Megan Spaulding  | [github/meganspauldingcreative](https://github.com/meganspauldingcreative)
->>>>>>> 92fea0bce09e44715c210951b048ab1dacd5e133
+
 
 ### JavaScript refactoring and optimization
 Contributors in this group will refactor and optimize the structure and semantics of the ***.js*** file, ensuring best practices *(checking syntax errors, etc.)* Contributors may also choose to **initiate interactivity scripting** when necessary.
@@ -160,7 +160,7 @@ Name         | Disc Forum @ | Slack @ | Link (optional)
 Daren Morreale  |   | @Daren  | [github/darenjm](https://github.com/darenjm)
 Ina Chemerko |     | @InaChemerko  | [github/InaChemerko](https://github.com/InaChemerko)
 Brendan Pettis | @codemetheus | @Brendan(WI) | [github/brendanpettis](https://github.com/brendanpettis)
->>>>>>> 92fea0bce09e44715c210951b048ab1dacd5e133
+
 
 ### Asset gathering
 Contributors in this group will gather resources for images, icons, and media pertaining to the main concept while working closely with the ***wireframe layout*** and ***index.html*** teams for guidance.
